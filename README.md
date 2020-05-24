@@ -2,7 +2,7 @@
 
 # Deep Learning
 
-## Project 1: Deploy a Sentiment Analysis Model using AWS SageMaker
+## Project : Deploy a Sentiment Analysis Model using AWS SageMaker
 
 ### By Vedavyas Kamath
 
